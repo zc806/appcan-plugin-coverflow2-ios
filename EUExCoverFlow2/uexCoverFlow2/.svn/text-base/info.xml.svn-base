@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uexplugins>
+    <plugin
+        uexName="uexCoverFlow2" version="3.0.1" build="1">
+        <info>1:去掉图片底部的标题栏</info>
+         <build>0:旋转木马功能插件</build>
+    </plugin>
+</uexplugins>
